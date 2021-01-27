@@ -1,0 +1,199 @@
+
+
+#title {
+  background-color:#ff4c68;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+
+
+}
+.container-fluid{
+  padding: 3% 12% 7%;
+
+}
+h1 {
+  font-size: 4rem;
+  line-height: 1;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  padding-top: 50px;
+}
+.navbar-brand{
+font-family: "Unubtu";
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+.navbar{
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 5.5rem;
+  padding-left: 0;
+  padding-right: 0rem;
+}
+.nav-item {
+  padding: 0 0 0 10px;
+}
+
+.nav-link{
+
+  font-size: 1.2rem;
+}
+
+.title-img{
+  width: 63%;
+  transform: rotate(20deg);
+  margin-left: 6rem;
+  position: absolute;
+
+
+}
+
+.downloadBtn{
+  margin: 5% 3% 1% 0 ;
+
+}
+/* Features */
+
+#features {
+  background-color: white;
+position: relative;
+
+}
+.icons-features{
+ font-size: 3em;
+ color: #ee9595;
+ margin-bottom: 1rem;
+}
+.icons-features:hover{
+
+color: #ff4c68;
+font-size: 3.5em;
+}
+
+.features {
+  padding: 6% 3% ;
+}
+.features-items{
+  text-align: center;
+  padding: 0 0 1rem 0;
+}
+#add-text{
+color: #ffdcb8;
+}
+h3{
+  font-size: 1.5rem;
+
+}
+
+/* ----------Testimonials------------ */
+
+h2 {
+  padding: 5% 10% 2% 10%;
+  font-family: "Montserrat";
+  font-size: 3rem;
+  color: white;
+line-height: 1;
+}
+.dog-image{
+width: 10%;
+border-radius: 100px;
+margin-bottom: 2.5rem;
+
+}
+#testimonials{
+  background-color: #ff4c68;
+  padding: 5% 3% 0 3%;
+  text-align: center;
+
+}
+/* ------Press------- */
+
+#press{
+text-align: center;
+background-color: #ff4c68;
+
+/* padding-top: 5%; */
+
+}
+.press-logo{
+  width: 10%;
+  margin: 90px 10px 50px;
+}
+
+
+
+
+/* ------Pricing----- */
+
+.card{
+  margin-bottom: 20px;
+}
+#pricing {
+padding-top: 50px;
+  text-align: center;
+}
+
+
+h4{
+  font-family: "Montserrat";
+  font-size: 4rem;
+  color: black;
+}
+
+.price-row{
+  padding: 2% 10% 4% 10%;
+}
+
+/* ----MEDIA----- */
+
+@media (max-width:1025px) {
+
+  .title-img {
+transform: rotate(0);
+position: static;
+width: 200px;
+margin: auto;
+  }
+.row-title{
+  text-align: center;
+}
+
+.price-row{
+  padding: 5% 20%;
+}
+
+
+}
+
+
+/* -----CTA------ */
+
+#cta {
+background-color: #ff4c68;
+padding: 1% 2% 2% 2%;
+text-align: center;
+}
+
+/* ----FOOOOOTER----- */
+#footer{
+  background-color: white;
+  text-align: center;
+  margin: 8% 3% 0 3%;
+
+}
+.last-footers{
+  padding: 0 1% 1% 1%;
+
+}
+.ftrs{
+  margin: 0 5px;
+}
+
+/* #Apple-btn{
+  background-color: transparent;
+  border-color: white;
+  color: white;
+} */
+
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif; */
